@@ -24,11 +24,3 @@ Files will be organized into the following categories based on their extensions:
 - **📦 Archives**: `.zip`, `.tar`, `.gz`
 - **🗑️ Miscellaneous**: Files that don’t fit into any of the above categories will be moved to this folder.
 
----
-
-## 🛠️ **Installation**
-
-### 1. **Clone the Repository**  
-First, clone the repository to your local machine:
-```bash
-git clone https://github.com/your-username/file-organizer.git
